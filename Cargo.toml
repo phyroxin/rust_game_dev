@@ -1,7 +1,0 @@
-[package]
-name = "draw_sprite"
-version = "0.1.0"
-authors = ["phyroxin <campslamin@blueyonder.co.uk>"]
-
-[dependencies]
-glium = "*"
